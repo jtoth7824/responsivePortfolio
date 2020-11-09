@@ -1,0 +1,46 @@
+/*.navAlign {
+    text-align: right;
+}*/
+
+.captionSize {
+    font-size: 24px;
+}
+
+.imgFloat {
+    float: left;
+    margin-right: 15px;
+}
+
+/*.navFloatRight {
+    float: right;
+    margin-left: 15px;
+}*/
+
+.imgSize {
+    height: 30%;
+/*    width: 70%;*/
+}
+
+.marginCont {
+    margin-left: 20px;
+}
+
+body {
+/*    background-image: url("https://media2.giphy.com/media/l3JE59A6vcL4cqRYbZ/giphy.gif");*/
+    background-color: peachpuff;
+}
+
+.containerColor {
+    background-color: white;
+}
+
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+  
+    > .col,
+    > [class*="col-"] {
+      padding-right: 0;
+      padding-left: 0;
+    }
+  }
