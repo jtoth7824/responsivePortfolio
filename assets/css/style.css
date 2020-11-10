@@ -1,11 +1,24 @@
 .captionSize {
-    font-size: 24px;
+    font-size: 28px;
 }
 
-.imgFloat {
+.brand {
+    background-color: rgb(16, 173, 166);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.aboutTextColor {
+    color: rgb(16, 173, 166);
+}
+.navTextEm {
+    text
+}
+
+/*.imgFloat {
     float: left;
     margin-right: 15px;
-}
+}*/
 
 .imgSize {
     height: 30%;
@@ -44,3 +57,7 @@ body {
       padding-left: 0;
     }
   }
+
+/*.outerDiv {position:relative;}
+.d1{width:150px;height:80px;background:wheat;}*/
+.aAbsolute{position:absolute;top:80px;left:100px;}
