@@ -1,5 +1,5 @@
 .captionSize {
-    font-size: 28px;
+    font-size: 24px;
 }
 
 .brand {
@@ -15,49 +15,44 @@
     text
 }
 
-/*.imgFloat {
-    float: left;
-    margin-right: 15px;
-}*/
-
-.imgSize {
-    height: 30%;
-}
-
 .marginCont {
     margin-left: 20px;
 }
 
-.bodyRightBlock {
-    display: block;
-    float: right;
+.marginBottomCont {
+    margin-bottom: 150px;
 }
 
-.bodyLeftBlock {
-    display: block;
-    float: left;
+.marginBottomCol {
+    margin-bottom: 20px;
 }
 
 body {
-/*    background-image: url("https://media2.giphy.com/media/l3JE59A6vcL4cqRYbZ/giphy.gif");*/
-    background-color: peachpuff;
+    background-image: url("../images/background.jpg");
+    background-repeat: repeat;
+    background-attachment: scroll;
 }
 
-.containerColor {
-    background-color: white;
-}
-
-.no-gutters {
-    margin-right: 0;
-    margin-left: 0;
-  
-    > .col,
-    > [class*="col-"] {
-      padding-right: 0;
-      padding-left: 0;
-    }
+.padding {
+    padding-right: 20px;
   }
 
-/*.outerDiv {position:relative;}
-.d1{width:150px;height:80px;background:wheat;}*/
-.aAbsolute{position:absolute;top:80px;left:100px;}
+.outerDiv {
+    position:relative;
+}
+
+.aAbsolute {
+    position:absolute;top: auto;right: auto; z-index: 1000;
+}
+
+.johnPic {
+  max-width: 100%;
+  height: auto;
+  max-height: 260px;
+}
+
+.porfolioPic {
+    max-width: 100%;
+    height: auto;
+    max-height: 260px;
+}
