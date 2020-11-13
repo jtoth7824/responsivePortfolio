@@ -3,20 +3,13 @@
 }
 
 .brand {
-    background-color: rgb(16, 173, 166);
+    background-color: rgb(115, 13, 199);
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
 .aboutTextColor {
-    color: rgb(16, 173, 166);
-}
-.navTextEm {
-    text
-}
-
-.marginCont {
-    margin-left: 20px;
+    color: rgb(115, 13, 199);
 }
 
 .marginBottomCont {
@@ -37,6 +30,14 @@ body {
     padding-right: 20px;
   }
 
+.containerMarginLeft {
+    margin-left: 100px;
+}
+
+.containerPositionLeft {
+    margin-left: 18rem;
+    position: fixed:
+}
 .outerDiv {
     position:relative;
 }
@@ -46,13 +47,46 @@ body {
 }
 
 .johnPic {
-  max-width: 100%;
-  height: auto;
-  max-height: 260px;
+    max-width: 100%;
+    height: auto;
+    max-height: 260px;
 }
 
 .porfolioPic {
     max-width: 100%;
     height: auto;
     max-height: 260px;
+}
+
+.myFooter {
+        padding: 5px 0;
+        margin: 0;
+}
+
+@media screen and (max-width: 768px) {
+    #styling {
+        background-color: green;
+        margin-left: 100px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    #styling {
+        background-color: yellow;
+        margin-left: 200px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    #styling {
+        background-color: blue;
+        margin-left: 50px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    #styling {
+        background-color: orange;
+        margin-left: 300px;
+    }
 }
