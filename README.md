@@ -15,7 +15,7 @@ There is a sidebar that is consistent across all pages that provide Connection i
 The following is a picture of the About (Home) page for the responsive portfolio.
 
 <p align="center">
-  <img src="./assets/images/About.png" alt="Responsive Portfolio About page screenshot">
+  <img src="./assets/images/AboutMe.png" alt="Responsive Portfolio About page screenshot">
 </p>
 
 The following is a picture of the Contact page for the responsive portfolio.
