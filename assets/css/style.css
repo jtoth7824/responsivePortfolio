@@ -37,8 +37,8 @@
     margin-bottom: 150px;
 }
 
-/* styling for Submit button */
-.mySubmitButton {
+/* styling for buttons */
+.myButton {
     color: #fff;
     background-color: rgb(115, 13, 199);
     border-color: rgb(115, 13, 199);
