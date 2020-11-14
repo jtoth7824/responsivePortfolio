@@ -15,17 +15,17 @@ There is a sidebar that is consistent across all pages that provide Connection i
 The following is a picture of the About (Home) page for the responsive portfolio.
 
 <p align="center">
-  <img src="./assets/images/" alt="Responsive Portfolio About page screenshot">
+  <img src="./assets/images/About" alt="Responsive Portfolio About page screenshot">
 </p>
 
 The following is a picture of the Contact page for the responsive portfolio.
 <p align="center">
-  <img src="./assets/images/" alt="Responsive Portfolio Contact page screenshot">
+  <img src="./assets/images/Contact" alt="Responsive Portfolio Contact page screenshot">
 </p>
 
 The following is a picture of the Portfolio page for the responsive portfolio.
 <p align="center">
-  <img src="./assets/images/" alt="Responsive Portfolio Portfolio page screenshot">
+  <img src="./assets/images/Portfolio" alt="Responsive Portfolio Portfolio page screenshot">
 </p>
 
 ## Setup/Installation Requirements
