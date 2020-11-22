@@ -32,7 +32,7 @@ The following is a picture of the Portfolio page for the responsive portfolio.
 
 Direct link to repository:  https://github.com/jtoth7824/responsivePortfolio
 
-Direct link to Code Refactor webpage:  https://jtoth7824.github.io/responsivePortfolio/
+Direct link to Responsive Portfolio webpage:  https://jtoth7824.github.io/responsivePortfolio/
 
 ## Support and contact details
 
