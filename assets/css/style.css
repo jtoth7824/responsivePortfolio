@@ -22,14 +22,32 @@
     font-size: 20px;
 }
 .brand {
-    background-color: rgb(115, 13, 199);
     font-size: 20px;
     margin-top: 10px;
     margin-bottom: 10px;
+    color: rgb(94, 89, 97);
 }
 
 .aboutTextColor {
-    color: rgb(115, 13, 199);
+    color: rgb(94, 89, 97);
+}
+
+.card {
+    border-radius: 20px;
+}
+
+.card-transparent {
+    border-width: thick;
+    border-color: white;
+}
+
+.img {
+    border-radius: 20px;
+}
+
+.card-img-top {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
 }
 
 /* styling for bottom of container */
@@ -40,8 +58,8 @@
 /* styling for buttons */
 .myButton {
     color: #fff;
-    background-color: rgb(115, 13, 199);
-    border-color: rgb(115, 13, 199);
+    background-color: rgb(94, 89, 97);
+    border-color: rgb(94, 89, 97);
 }
 
 /* styling to keep column items separated */
@@ -49,19 +67,43 @@
     margin-bottom: 20px;
 }
 
+/*.card-deck {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-gap: .5rem;
+}
+ */
+
+/* setting up background image to cover entire page */
+/*html,
+body,
+.background {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+*/
 /* styling for background of pages */
-body {
-    background-image: url("../images/background.jpg");
-    background-repeat: repeat;
+/*body {
+    background-image: url("../images/GrayXL.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
     background-attachment: scroll;
 }
+*/
+/* setting up background image to cover entire page */
+body {
+    background-image: url("../images/GrayXL.png");
+    background-attachment: fixed;
+  }
 
 /* styling for border bottom for Card object in grid */
 .myBottomBorder {
 /*    border-bottom: 5px solid #dee2e6!important; */
     border-bottom-width: 5px !important;
     border-bottom-style: solid !important;
-    border-bottom-color: rgb(115, 13, 199) !important
+    border-bottom-color: white !important
 }
 /* generic padding amount */
 .padding {
@@ -95,4 +137,9 @@ body {
 .myFooter {
         padding: 5px 0;
         margin: 0;
+}
+
+.btnMargin {
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
